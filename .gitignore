@@ -1,0 +1,28 @@
+# MicroPython / Pico tooling
+__pycache__/
+*.py[cod]
+*.mpy
+
+# Thonny workspace settings
+.thonny/
+
+# mpremote / rshell upload state
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Build artefacts
+build/
+dist/
+*.egg-info/
+
+# Environment
+venv/
+.env
